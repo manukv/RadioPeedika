@@ -1,5 +1,5 @@
 name: streaming_audio_flutter_demo
-description: A demo app for showing how to stream audio with Just Audio
+description: Online streaming radio
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 version: 1.0.0+1
